@@ -1,4 +1,4 @@
-# LobiList
+Edited source from http://lobianijs.com/site/lobilist#methods
 jQuery plugin for todo lists. Supports drag & drop of todos. Multiple lists with different colors. Support for communication to backend
 
 [View Demo](http://lobianijs.com/site/lobilist)
